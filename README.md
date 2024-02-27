@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @vaishnaja
-- 👀 I’m interested in python
+- 👋 Hi, I’m @v
+- 👀 I’m interested in
 - 🌱 I’m currently learning python api
 - 💞️ I’m looking to collaborate on python
 - 📫 How to reach me for more
